@@ -18,3 +18,5 @@ b = error2(a)
 c = str_erro(b)
 d = real_error(c)
 print(d)
+test = "hi"
+print(test)
